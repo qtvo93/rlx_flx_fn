@@ -22,3 +22,6 @@ A simple job tracker application designed to help users manage their job applica
 1. Add Job
 2. View Job
 3. Delete Job
+
+## Diagram:
+![image](https://github.com/user-attachments/assets/a07559ea-ce9f-413e-b4ee-bad22ba069a7)
